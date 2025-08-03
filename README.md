@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-> [👩‍💻 live Demo of my website ]( https://underwaterbet023.github.io/Project-Bun-Hub-main/)
+> [🍔 live Demo of my website ]( https://underwaterbet023.github.io/Project-Bun-Hub-main/)
 
 ---
 
