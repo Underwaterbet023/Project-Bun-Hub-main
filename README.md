@@ -1,4 +1,4 @@
-<img width="1880" height="924" alt="image" src="https://github.com/user-attachments/assets/2b0c8881-9ec4-439b-8306-7fe1916272b2" /># 🍔 BunHub – Premium Burger Ordering Website
+# 🍔 BunHub – Premium Burger Ordering Website
 
 **BunHub** is a stylish, responsive burger ordering and restaurant management website. Built to create an immersive user experience, the site offers a dynamic menu, table reservation, live cart system with GST calculation, and upcoming event highlights — all wrapped in a modern food-brand identity.
 
